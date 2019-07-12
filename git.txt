@@ -8,3 +8,14 @@ Git log onelinge log简版
 git reflog
 git reset --hard 9a9c回退到想要的版本
 rm aa.txt 删除
+删除未提交 git-reset--hard hard
+Git diff apple.txt 文件比较
+git macbook$ git remote add origin https://github.com/amami21/study.git origin==git地址
+git push origin master 上传
+git clone 地址
+团队成员 新账号
+git fetch origin master抓取
+git checking out 'origin/master' 合并
+git merge 直接改
+
+
